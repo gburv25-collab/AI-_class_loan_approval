@@ -2,6 +2,6 @@
 
 # In this repository you will find the: 
 
-- Code: Logreg_code
+- Code: Loan_ML
 - Data: Loan_Applications
 - Exercise and resources
