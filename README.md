@@ -1,4 +1,4 @@
-# Strecth activity: Loan_approval Supervised learning model: using Logistic regression
+# Stretch activity: Loan_approval Supervised learning model: using Logistic regression
 
 # In this repository you will find the: 
 
